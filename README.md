@@ -1,4 +1,4 @@
-# Predicting Huntingtons Disease by Python
+# 2. Predicting Huntingtons Disease by Python
 
 *10/2018*
 
